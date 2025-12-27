@@ -1,0 +1,12 @@
+Nguyễn Bá Quỳnh Giao DH52200604 D22_TH04 
+Phan Gia Quý DH52201334 D22_TH04
+
+
+giao | giao@gmail.com | 2025-12-27 | giao-jvs
+quy | quy@gmail.com | 2025-12-27 | quy2
+giao | giao@gmail.com | 2025-12-27 | giao-link
+quy | quy@gmail.com | 2025-12-27 | quy1
+giao | giao@gmail.com | 2025-12-27 | giao-style1
+giao | giao@gmail.com | 2025-12-27 | :wq `rge branch 'main' of https://github.com/maouziokr-hub/lab8
+giao | giao@gmail.com | 2025-12-27 | giao-index1
+maouziokr-hub | maouziokr@gmail.com | 2025-12-27 | Initial commit
